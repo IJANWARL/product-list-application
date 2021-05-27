@@ -1,0 +1,25 @@
+{
+  "common": {
+    "edit": "Edit",
+    "save": "Save"
+  },
+  "header": "Products list application",
+  "addImage": "Ad image",
+  "titles": {
+    "list": "PLA - list",
+    "details": "PLA - details",
+    "edit": "PLA - edit"
+  },
+  "labels": {
+    "name": "Name",
+    "imageName": "Image name",
+    "imageUrl": "Image Url",
+    "number": "Number",
+    "description": "Description"
+  },
+  "headers": {
+    "basicData": "Basic data",
+    "noImages": "No images",
+    "images": "Images"
+  }
+}
